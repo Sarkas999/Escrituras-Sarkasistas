@@ -2,3 +2,7 @@ body {
     color:gold;
     background: black;
 }
+
+header {
+    border: solid 2px gold;
+}
