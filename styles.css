@@ -9,3 +9,8 @@ header {
     padding: 20px;
     font-size: 25px;
 }
+
+.casos-criminais-ao-redor-do-mundo {
+  display: flex;  
+  overflow-x: auto;
+}
