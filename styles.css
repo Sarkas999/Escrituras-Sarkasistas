@@ -4,5 +4,6 @@ body {
 }
 
 header {
-    border: solid 2px gold;
+    border-bottom: solid 2px gold;
+    padding: 20px;
 }
